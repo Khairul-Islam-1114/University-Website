@@ -1,7 +1,7 @@
 
 import React from 'react';
 import './Programs.css';
-import program_1 from '../../assets/img/program-1.png';
+import program_1 from '../../assets/img/program_1.jpg';
 import program_2 from '../../assets/img/program-2.png';
 import program_3 from '../../assets/img/program-3.png';
 import program_icon_1 from '../../assets/img/program-icon-1.png';

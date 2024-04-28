@@ -10,4 +10,4 @@ const Title = ({subtitle_1,subtitle_2,main_title}) => {
   )
 }
 
-export default Title
+export default Title;
