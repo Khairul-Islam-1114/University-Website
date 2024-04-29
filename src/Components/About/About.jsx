@@ -17,7 +17,7 @@ const About = () => {
         <div className="about-right">
             <h3>ABOUT UNIVERSITY</h3>
             <h2>Nurturing Tommorow's Leaders Today</h2>
-            <p>At EduCity University, we prepare you to launch your career by providing a supportive, creative, and professional environment from which to learn practical skills, build a network of industry contacts, and gain real-world experience. You’ll have the opportunity to generate innovative design and business solutions.</p>
+            <p>At Edusity University, we prepare you to launch your career by providing a supportive, creative, and professional environment from which to learn practical skills, build a network of industry contacts, and gain real-world experience. You’ll have the opportunity to generate innovative design and business solutions.</p>
         </div>
     </div>
   )
