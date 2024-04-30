@@ -50,3 +50,16 @@ a{
   background: #212EA0;
   color: #FFF;
 }
+
+/* media query */
+
+@media (max-width:1050px){
+    .container{
+      padding-left: 5%;
+      padding-right: 5%;
+    }
+
+    .btn{
+      padding: 10px 20px;
+    }
+}

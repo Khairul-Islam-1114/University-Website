@@ -27,3 +27,53 @@ nav ul li{
     background:#212EA0 ;
     transition: 0.5s;
 }
+
+.menu-icon{
+    display: none;
+}
+
+/* media query */
+
+@media (max-width:976px){
+.logo{
+    width: 120px;
+}
+
+nav ul li{
+    margin: 5px 10px;
+}
+}
+
+@media (max-width:776px){
+
+    nav{
+        padding: 10px;
+    }
+
+    nav ul{
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        background: #212EA0;
+        z-index: -1;
+        width: 150px;
+        transition: 0.5s;
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+        justify-content: space-evenly;
+    }
+
+    .menu-icon{
+        display: block !important;
+        width: 30px;
+        cursor: pointer;
+    }
+
+    .hide-mobile-menu{
+        right: -150px;
+    }
+    
+   
+    }
